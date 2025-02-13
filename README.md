@@ -1,5 +1,11 @@
 Project Title: "Automated Smart Car Parking System Using Arduino and Sensor-Based Control"
 
+Arduino Project
+Done By 
+AMRITH P - RA2211003010649
+HARIHARAN R - RA2211003010668
+ 
+
 Project Description:
 This project presents a smart and automated car parking system using Arduino IDE, designed to efficiently manage vehicle parking spaces while reducing human intervention. The system utilizes ultrasonic sensors to detect vehicle presence, servo motors to control barrier gates, and an LCD display for real-time parking status updates.
 
